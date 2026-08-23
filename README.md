@@ -61,6 +61,7 @@ Model (Modelo) → Place.php representa la estructura de los lugares turísticos
 View (Vista) → Archivos Blade (index.blade.php, show.blade.php, create.blade.php) muestran la información al usuario.
 
 Response (Respuesta HTTP) → El navegador renderiza la vista con los datos procesados.
+<img width="1536" height="1024" alt="Diagrama" src="https://github.com/user-attachments/assets/fe9b8229-276e-4ccf-910b-b17e84b3feac" />
 
 ## Archivos JSON
 storage/app/places.json → catálogo de lugares turísticos.
