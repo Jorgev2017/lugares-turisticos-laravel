@@ -80,7 +80,7 @@ storage/app/ → Archivos JSON de datos.
 
 .gitignore → Configuración para excluir vendor/, .env, etc.
 
-##Capturas de Pantalla
+## Capturas de Pantalla
 <img width="1582" height="777" alt="image" src="https://github.com/user-attachments/assets/0a14b6fb-66fb-4f91-9c45-f9864b55a901" />
 
 <img width="1543" height="787" alt="image" src="https://github.com/user-attachments/assets/78785f84-0d08-41c2-8f46-afff9542e462" />
