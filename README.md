@@ -80,5 +80,13 @@ storage/app/ → Archivos JSON de datos.
 
 .gitignore → Configuración para excluir vendor/, .env, etc.
 
+##Capturas de Pantalla
+<img width="1582" height="777" alt="image" src="https://github.com/user-attachments/assets/0a14b6fb-66fb-4f91-9c45-f9864b55a901" />
+
+<img width="1543" height="787" alt="image" src="https://github.com/user-attachments/assets/78785f84-0d08-41c2-8f46-afff9542e462" />
+
+<img width="1539" height="784" alt="image" src="https://github.com/user-attachments/assets/aa1508a4-c160-42cf-ab80-ceb69913c196" />
+
+
 ## Conclusión
 Este proyecto permite comprender cómo Laravel implementa el patrón MVC, mostrando el ciclo de vida de una petición HTTP y el flujo de datos entre las capas de presentación y lógica de negocio, utilizando archivos JSON como fuente de datos.
