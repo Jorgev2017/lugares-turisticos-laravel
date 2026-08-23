@@ -31,10 +31,10 @@ La aplicación permite:
    ```bash
    git clone https://github.com/Jorgev2017/lugares-turisticos-laravel.git
 
-2. Entrar al proyecto en CMD
+2. Entrar al proyecto en CMD:
     cd lugares-turisticos-laravel
 
-3. Instalar dependencias
+3. Instalar dependencias:
     composer install
 
 4. Configurar el archivo .env (copiar desde .env.example y ajustar según tu entorno).
